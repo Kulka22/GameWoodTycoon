@@ -604,7 +604,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 40.667114}
     m_SelectedIDs: b6b80000
     m_LastClickedID: 47286
-    m_ExpandedIDs: 00000000c6b50000c8b50000cab50000ccb50000ceb50000d0b50000d2b50000
+    m_ExpandedIDs: 00000000b6b80000b8b80000bab80000bcb80000beb80000c0b80000c2b80000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -633,7 +633,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c6b50000c8b50000cab50000ccb50000ceb50000d0b50000d2b50000
+    m_ExpandedIDs: 00000000b6b80000b8b80000bab80000bcb80000beb80000c0b80000c2b80000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1561,14 +1561,17 @@ MonoBehaviour:
     controlPanelWidth: NaN
     controlPanelFoldoutKeys:
     - UnityEditor.AdaptivePerformance.Editor.AdaptivePerformanceUIExtension
+    - UnityEditor.AdaptivePerformance.Google.Android.Editor.AdaptivePerformanceGoogleUIExtension
     - UnityEditor.DeviceSimulation.ApplicationSettingsPlugin
-    controlPanelFoldoutValues: 0000
+    controlPanelFoldoutValues: 000000
     pluginNames:
     - UnityEditor.AdaptivePerformance.Editor.AdaptivePerformanceUIExtension
+    - UnityEditor.AdaptivePerformance.Google.Android.Editor.AdaptivePerformanceGoogleUIExtension
     - UnityEditor.DeviceSimulation.ApplicationSettingsPlugin
     - UnityEngine.InputSystem.Editor.InputSystemPlugin
     pluginStates:
     - '{"m_SerializationStates":{"thermalFoldout":false,"performanceFoldout":false,"developerFoldout":false,"indexerFoldout":false,"scalersFoldout":false,"deviceSettingsFoldout":false}}'
+    - '{"m_SerializationStates":{"androidSystemFoldout":false}}'
     - '{}'
     - '{}'
     scale: 32
